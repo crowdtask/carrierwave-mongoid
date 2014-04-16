@@ -1,7 +1,0 @@
-pkg/*
-*.gem
-*.sw*
-.bundle
-spec/public
-gemfiles/*.lock
-log/*
